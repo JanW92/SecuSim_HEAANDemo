@@ -21,3 +21,8 @@ Therefore, this software project can be used to analyse the suitability of upcom
 ## Dependencies
 
 * HEAAN VERSION 2.1
+
+## References
+
+* HEAAN project: https://github.com/snucrypto/HEAAN
+* Implementation of matrix vector multiplication: https://github.com/MarwanNour/SEAL-FYP-Logistic-Regression
